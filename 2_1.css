@@ -1,0 +1,74 @@
+.rock{
+        color: firebrick;
+    }
+
+.indie{
+        color: dodgerblue;
+    }
+
+
+.kpop{
+        color: deeppink;
+    }
+
+
+.my-box{
+        background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,119,1) 50%, rgba(0,255,246,1) 100%);
+    }
+
+h1{
+  
+    color: aliceblue;
+}
+
+h2{
+  
+    color: aliceblue;
+}
+
+
+h3{
+  
+    color: aliceblue;
+}
+
+h4{
+  
+    color: aliceblue;
+}
+
+h5{
+  
+    color: aliceblue;
+}
+
+ul{
+  
+    color: aliceblue;
+}
+
+li{
+  
+    color: aliceblue;
+}
+
+
+ol{
+  
+    color: aliceblue;
+}
+
+
+
+p{
+  
+    color: aliceblue;
+}
+
+
+body{
+    
+    background-color: black;
+    
+}
